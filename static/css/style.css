@@ -119,12 +119,12 @@ select {
 
 
 .form-control::-webkit-input-placeholder {
-  /* Chrome/Opera/Safari */
+
   color: #8e979f;
 }
 
 .form-control::-moz-placeholder {
-  /* Firefox 19+ */
+
   color: #8e979f;
 }
 
